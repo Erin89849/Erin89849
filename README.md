@@ -9,7 +9,7 @@ My work focuses on **machine learning**, **software engineering** and **computat
 - **Tools:** Linux, Bash
 
 ## 🌑 Featured Projects
-### **[1- Google Sheets Score Comparison](https://github.com/erin-olson/sheet-score-comparison)**
+### **[1- Google Sheets Score Comparison](https://github.com/erin-olson/sheets-score-comparison)**
 
 A Python tool for retrieving data from multiple Google Sheets, computing final scores and comparing results across different categories and evaluators. This project demonstrates API integration, data processing and building automation scripts.
 
